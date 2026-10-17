@@ -20,7 +20,7 @@ Men web dasturlash bilan shug'ullanaman va har kuni yangi narsalar o'rganishga h
 ### Hozir o'rganyapman
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-## 🛡 Cybersecurity
+🛡 Cybersecurity
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
