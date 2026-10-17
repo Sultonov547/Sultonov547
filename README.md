@@ -3,7 +3,7 @@
 <h1 align="center">Salom, mening ismim Javohir Sultonov 👋</h1>
 
 <p align="center">
-  💻 Web dasturchi | 🌐 Frontend | 🐍 Python o'rganuvchi
+  💻 Web dasturchi | Backend | 🛡 CyberSecurity o'rganuvchi
 </p>
 
 Men web dasturlash bilan shug'ullanaman va har kuni yangi narsalar o'rganishga harakat qilaman. Hozir frontend asoslarini bilaman, Python'ni esa o'rganyapman.
